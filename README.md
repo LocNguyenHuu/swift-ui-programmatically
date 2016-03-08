@@ -22,9 +22,3 @@ This Swift iOS project demonstrating Programmatically creating
 *UIDatePicker,
 
 and using Push & Pop navigation controllers
-
-
-
-
-
-Please follow http://rkiosdev.blogspot.in  
